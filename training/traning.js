@@ -37,3 +37,37 @@ console.log(
     ' a moje BMI je ' +
     vaha / (vyska * vyska)
 );*/
+
+/*prompt('Jak se jmenuješ?');
+let jmeno = prompt('Jak se jmenuješ?');
+
+console.log('Jmenuješ se ' + jmeno);*/
+
+/*let cislo = Number(prompt('Kolik je ti let?'));
+
+console.log('Je ti tolik let:' + cislo);*/
+
+/*et vstupOdUzivatele = prompt('Kolik je ti let?');
+let cislo = Number(vstupOdUzivatele);
+
+console.log('Je ti ' + cislo + ' let.');*/
+
+/*console.log(1 === 1);
+
+console.log(1 === 2);
+
+console.log(1 > 0);
+
+let prvniCislo = 2;
+let druheCislo = 3;
+
+console.log(prvniCislo === druheCislo);*/
+
+// ano prsi
+let prsi = true;
+
+//mrzne... nemrzne
+let mrzne = false;
+
+console.log('prsi a zaroven mrzne?');
+console.log(prsi && mrzne);
